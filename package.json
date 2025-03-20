@@ -1,0 +1,14 @@
+{
+    "name": "user-validation",
+    "version": "1.0.0",
+    "description": "User data validation with Jest testing",
+    "main": "validateUserData.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
